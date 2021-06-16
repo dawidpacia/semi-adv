@@ -40,3 +40,7 @@ def calculate_result_3(expenses):
 
 expenses = read_input()
 print(calculate_result_3(expenses))
+a = [
+    1,
+    1,
+]
